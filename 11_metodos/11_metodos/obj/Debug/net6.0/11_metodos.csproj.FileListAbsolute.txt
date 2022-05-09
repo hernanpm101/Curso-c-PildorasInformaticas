@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\bin\Debug\net6.0\11_metodos.exe
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\bin\Debug\net6.0\11_metodos.deps.json
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\bin\Debug\net6.0\11_metodos.runtimeconfig.json
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\bin\Debug\net6.0\11_metodos.dll
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\bin\Debug\net6.0\11_metodos.pdb
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\11_metodos.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\11_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\11_metodos.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\11_metodos.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\11_metodos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\11_metodos.dll
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\refint\11_metodos.dll
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\11_metodos.pdb
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\11_metodos.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\11_metodos\11_metodos\obj\Debug\net6.0\ref\11_metodos.dll
