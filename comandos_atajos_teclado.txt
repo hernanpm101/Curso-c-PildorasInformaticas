@@ -1,0 +1,8 @@
+C# VISUAL STUDIO
+
+cw + tab --> escribe   Console.WriteLine()
+
+control + x --> corta
+
+control + v --> pega
+

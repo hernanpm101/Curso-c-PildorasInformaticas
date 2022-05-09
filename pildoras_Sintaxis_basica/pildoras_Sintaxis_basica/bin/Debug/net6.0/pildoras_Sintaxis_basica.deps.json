@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pildoras_Sintaxis_basica/1.0.0": {
+        "runtime": {
+          "pildoras_Sintaxis_basica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pildoras_Sintaxis_basica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

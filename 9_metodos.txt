@@ -1,0 +1,39 @@
+Video 9 C# Pildoras Metodos 1 
+(return es "devuelveme"
+
+ejemplo metodo:
+
+int sumaNumeros(){
+   int num1=7;             //variables
+   int num2=9;
+   int resultado=num1+num2;
+   return resultado;         //si queremos que nos devuelva el         }                        //resultado de esa suma es necesario un                            //return para que nos devuelva esa suma.
+
+
+*Los metodos no se ejecutan hasta su llamada
+*Todos los metodos iran dentro de una clase C#
+*se debe especificar el tipo devuelto y los parametros
+*No hay distincion entre metodos y funciones. En C# ambos terminos son los mismos
+
+
+otro ejemplo de Metodo pero con parametros:
+
+int sumaNumeros(num1,num2){
+    int resultado = num1+num2;
+    return resultado;
+}
+
+
+Metodo con void:  (lleva palabra reservada void, no devuelve nada)
+void sumaNumeros(){
+   int num1=7;             
+   int num2=9;
+   int resultado=num1+num2;
+   Console.WriteLine(resultado);         
+}
+
+// Este metodo void imprime en consola (Console) y lo vez 16. imprime el valor, pero no lo devuelve ya que no hay return.
+UN METODO VOID JAMAS LLEVA RETURN.
+
+
+
