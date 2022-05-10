@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sintaxis_basica_video7/1.0.0": {
+        "runtime": {
+          "sintaxis_basica_video7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sintaxis_basica_video7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

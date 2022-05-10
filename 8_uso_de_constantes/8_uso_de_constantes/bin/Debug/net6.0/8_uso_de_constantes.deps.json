@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "8_uso_de_constantes/1.0.0": {
+        "runtime": {
+          "8_uso_de_constantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8_uso_de_constantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
