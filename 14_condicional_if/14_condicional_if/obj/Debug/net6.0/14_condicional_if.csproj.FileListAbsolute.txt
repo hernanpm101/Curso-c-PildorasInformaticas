@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\bin\Debug\net6.0\14_condicional_if.exe
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\bin\Debug\net6.0\14_condicional_if.deps.json
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\bin\Debug\net6.0\14_condicional_if.runtimeconfig.json
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\bin\Debug\net6.0\14_condicional_if.dll
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\bin\Debug\net6.0\14_condicional_if.pdb
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\14_condicional_if.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\14_condicional_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\14_condicional_if.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\14_condicional_if.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\14_condicional_if.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\14_condicional_if.dll
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\refint\14_condicional_if.dll
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\14_condicional_if.pdb
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\14_condicional_if.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\14_condicional_if\14_condicional_if\obj\Debug\net6.0\ref\14_condicional_if.dll
