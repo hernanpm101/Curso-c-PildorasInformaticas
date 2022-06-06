@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\bin\Debug\net6.0\16_condicional_if_anidado.exe
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\bin\Debug\net6.0\16_condicional_if_anidado.deps.json
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\bin\Debug\net6.0\16_condicional_if_anidado.runtimeconfig.json
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\bin\Debug\net6.0\16_condicional_if_anidado.dll
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\bin\Debug\net6.0\16_condicional_if_anidado.pdb
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\16_condicional_if_anidado.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\16_condicional_if_anidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\16_condicional_if_anidado.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\16_condicional_if_anidado.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\16_condicional_if_anidado.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\16_condicional_if_anidado.dll
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\refint\16_condicional_if_anidado.dll
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\16_condicional_if_anidado.pdb
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\16_condicional_if_anidado.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Pildoras_informaticas_C#\16_condicional_if_anidado\16_condicional_if_anidado\obj\Debug\net6.0\ref\16_condicional_if_anidado.dll
